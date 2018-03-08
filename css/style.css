@@ -1,0 +1,107 @@
+body{
+    position: relative;
+    top:-10;
+    background-color:#fdfdfd;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.li-nav{
+   color:white !important;
+}
+.profile-img{
+    height: 160px;
+    padding-right: 50px;
+}
+.profile-content{
+    display: flex;
+    flex-direction: column;
+}
+.panel{
+    
+    margin: auto;
+    margin-top: 30px;
+    width: 85%;
+}
+.panel-body{
+   margin: auto;
+     display: flex;
+    flex-direction: row;
+    
+}
+.lead{
+    text-align: center;
+}
+li{
+   
+    
+}
+.nav-tabs{
+    background-color:#555;
+}
+main{
+    
+    margin-top: 30px;
+    
+}
+section{
+    
+    display: flex;
+    flex-direction:column;
+}
+#dropdownMenu1{
+   width: 150px;
+    margin-left: 7.6%;
+    
+    
+}
+#citi-menu{
+    
+     margin-left: 7.6%;
+}
+
+header{
+    margin-top: 10px;
+    font-size:20px;
+}
+li a{
+color:white;
+}
+.tools-bar{
+    display: flex;
+    flex-direction: row;
+    align-items:stretch;
+    justify-content:center;
+    width: 80%;
+    margin: auto;
+}
+
+.vertical-flex{
+     justify-content: space-between;
+    display: flex;
+    flex-direction:column;
+    flex:1;
+}
+.login-form{
+    left:25%;
+    top:300;
+}
+.row-tools{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.contol-tools{
+    width:30%;
+    padding-top: 50px;
+    margin: auto;
+    display: flex;
+    flex-direction:column;
+    justify-content: space-between;
+    height: 300px;
+}
