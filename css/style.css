@@ -3,6 +3,9 @@ body{
     top:-10;
     background-color:#fdfdfd;
 }
+*{
+    font-family: "ARIAL";
+}
 ul{
     display: flex;
     flex-direction: row;
@@ -42,7 +45,7 @@ li{
     
 }
 .nav-tabs{
-    background-color:#555;
+    background-color:#252525;
 }
 main{
     
