@@ -108,3 +108,22 @@ color:white;
     justify-content: space-between;
     height: 300px;
 }
+.office_form{ 
+height: auto; 
+min-height: 400px; 
+width: 60%; 
+align-items: center; 
+margin:auto; 
+display: flex; 
+flex-direction: column; 
+justify-content: space-around; 
+
+} 
+
+.form-group{ 
+width:100%; 
+} 
+textarea{ 
+resize:vertical; 
+
+}
