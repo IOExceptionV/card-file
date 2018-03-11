@@ -144,3 +144,22 @@ footer{
     text-align: center;
     color:#999;
 }
+.pagination{ 
+display: flex; 
+flex-direction: column; 
+position: fixed; 
+top:100; 
+font-size: 25px; 
+left:-150; 
+
+align-content:center; 
+text-align: center; 
+justify-content:space-around; 
+height: 300px; 
+padding-right: 200px; 
+
+} 
+.pagination:hover{ 
+left:45; 
+
+}
