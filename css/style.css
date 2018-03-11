@@ -92,7 +92,8 @@ color:white;
 }
 .login-form{
     left:25%;
-    top:300;
+    top:200;
+    margin-bottom: 50px;
 }
 .row-tools{
     display: flex;
